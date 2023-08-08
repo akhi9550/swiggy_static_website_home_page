@@ -1,0 +1,357 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+}
+.main{
+    width:100%;
+    height: 76vh;
+    display: flex;
+}
+.main-1{
+    width: 950px;
+    height: 76vh;
+} 
+.local{
+    width: 100%;
+    height: 20vh;
+
+}
+.button{
+    width: 190px;
+     height: 70px;
+}
+.button img{
+    margin-top: 60px;
+    margin-left: 140px;
+    margin-bottom: 60px;
+        width: 100%;
+        height: 55px;
+}
+.abc{
+   margin-left: 520px;
+}
+.a{
+    background-color: transparent;
+    margin-right: -4px;
+    cursor: pointer;
+    border: none;
+    width: 115px;
+    height: 38px;
+    padding: 10px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+}
+.a:hover{
+    color: #fc8019;
+}
+.b{
+    cursor: pointer;
+    background-color: #282c3f;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    font-size: 14px;
+    border: none;
+    color: white;
+    width: 115px;
+    height: 38px;
+    padding: 10px;
+    font-weight: bold;
+}
+.txt{
+    width: 400px;
+    margin-left: 120px;
+    margin-top: 100px;
+    font-family:ProximaNova, arial, "Helvetica Neue", sans-serif ;
+    font-size: 40px;
+    color: #282c3f;
+    font-weight: bold;
+}
+.txt-p{
+    margin-top: 10px;
+    width: 600px;
+    margin-left: 120px;
+    font-family:ProximaNova, arial, "Helvetica Neue", sans-serif ;
+    font-size: 21px;
+    color: #686b78;
+}
+.input-txt input{
+    margin-top: 25px;
+    margin-right: -5px;
+    width: 440px;
+    height: 50px;
+    background-color: transparent;
+    margin-left: 120px;
+    border: #686b78 solid 1px;
+}
+.enter{
+    color: #686b78;
+    padding-left: 20px;
+    font-size: 17px;
+    font-family:ProximaNova, arial, "Helvetica Neue", sans-seri;
+}
+.enter:hover{
+    border: #fc8019 solid 1px;
+}
+.input-txt button{
+    cursor: pointer;
+    width: 170px;
+    height: 55px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: #fc8019 solid;
+    background-color: #fc8019;
+    
+}
+.popu{
+    font-size: 15px;
+    color: #a9abb2;
+    margin-top: 30px;
+    margin-left: 120px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-seri;
+}
+.linn{
+    width: 650px;
+    margin-top: 20px;
+    margin-left: 120px;
+}
+.linn a{
+    text-decoration: none;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-ser;
+    font-size: 16px;
+    margin: 4px;
+    color: #686b78;
+    font-weight: bold;
+}
+a:nth-child(10){
+    color: #93959f;
+}
+a:nth-child(8){
+    color: #93959f;
+}
+a:nth-child(6){
+    color: #93959f;
+}
+a:nth-child(4){
+    color: #93959f;
+}
+a:nth-child(2){
+    color: #93959f;
+}
+.main-2 img{
+    width: 655px;
+    height: 76vh;
+    object-fit: cover;
+}
+.section-1{
+    background-color:#2b1e16;
+    width: 100%;
+    height: 55vh;
+    display: flex;
+    justify-content: space-evenly;
+    justify-content: space-around;
+
+
+}
+.pieces-1{
+    width: 170px;
+    height: 30vh;
+}
+.pieces-1 img{
+    padding: 10px;
+    background-color: #2b1e16;
+    height: 28vh;
+    width: 115px;
+    margin-left: 12px;
+} 
+.content{
+    margin-top: 30px;
+    color: white;
+    font-size: 14px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    margin-left: -20px;
+    width: 243px;
+
+}
+
+ .content p{
+    font-size: 15px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color: #e0cbc1;
+    text-align: center;
+    margin-top: -10px;
+    margin-left: -30px;
+}
+.section-2{
+
+    width: 100%;
+    height: 75vh;
+}
+.up-phone{
+    float: right;
+    margin-right: 100px;
+    width: 368px;
+    height: 63vh;
+    margin-top: 86px;
+}
+.up-phone img{
+    
+    width: 356px;
+    height: 100%;
+   
+
+}
+.bottum-phone{
+    float: right;
+    width: 368px;
+    height: 70vh;
+    margin-right: -30px;
+    margin-top: 33px;
+} 
+.bottum-phone img{
+    width: 356px;
+    height: 100%;
+}  
+.content-1{
+    padding-top: 130px;
+    margin-left: 132px;
+    margin-top: -33px;
+    width: 500px;
+    height: 50vh;
+}
+.ab h1{
+    width: 300px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color: #282c3f;
+   font-size: 40px;
+}
+.bc p{
+    width: 400px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color: #7e808c;
+   font-size: 20px;
+}
+.last-img img{
+    width: 170px;
+    height: 50px;
+    margin: 10px;
+}
+.last{
+    background-color: black;
+    width: 100%;
+    height: 90vh;
+    margin: 0;
+} 
+.first{
+    width: 80%;
+    margin-left: 132px;
+    height: 80vh;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+.flex-first{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.flex-first1{
+    margin-left: 15px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.flex-first2{
+    margin-left: 60px;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.flex-first3{
+    cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+}
+.flex-first3 img{
+    width: 190px;
+    height: 60px;
+    margin: 10px;
+    border: #808080 solid 2px;
+    border-radius: 10px;
+}
+.first a{
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    font-size: 17px;
+    color: white;
+    text-decoration: none;
+    margin-top: 25px;
+}
+.first h4{
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    font-size: 15px;
+    color: #808080;
+}
+.last-one{
+    background-color: black;
+    width: 100%;
+    height: 20vh;
+}
+.x{
+    width: 1000px;
+    margin-left: 130px;
+    font-size: 15px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color: #808080;
+}
+.y{
+    cursor: pointer;
+    width: 250px;
+    margin-top: 30px;
+    margin-left: 130px;
+    font-size: 17px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color: white;
+}
+.z{
+    cursor: pointer;
+    width: 350px;
+    margin-top: -35px;
+    margin-left: 1000px;
+    font-size: 17px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+    color: white;
+}
+.final-one{
+    background-color: black;
+    width: 100%;
+    height: 15vh;
+}
+.final-logo{
+    width: 100%;
+    display: flex;
+}
+.final-logo img{
+    width: 150px;
+    height: 45px;
+    margin-left: 130px;
+}
+.final-logo a{
+    color: white;
+    font-size: 20px;
+    margin-left: 400px;
+    font-family: ProximaNova, arial, "Helvetica Neue", sans-serif;
+}
+.logos{
+    width: 503px;
+}
+.logos {
+    width: 200px;
+    cursor: pointer;
+    color: white;
+    margin-left: 350px;
+}
+.logos i{
+    margin: 10px;
+}
